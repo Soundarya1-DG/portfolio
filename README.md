@@ -23,7 +23,6 @@ portfolio/
 ## 📬 Contact
 Feel free to connect with me:
 - 📧 Email: soundaryadg26@gmail.com
-- 📞 Phone: +91-7795704548
 - 🔗 [LinkedIn](https://www.linkedin.com/in/soundarya-dg-80b987227)
 - 💻 [GitHub](https://github.com/Soundarya1-DG)
 
